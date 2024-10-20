@@ -86,6 +86,4 @@ Este projeto provisiona uma infraestrutura básica na AWS utilizando **Terraform
 
 - **Atenção**: As regras de segurança permitem acesso SSH de qualquer IP (0.0.0.0/0). Para ambientes de produção, recomenda-se restringir o acesso a IPs específicos.
   
-## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
