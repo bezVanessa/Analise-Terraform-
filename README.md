@@ -1,5 +1,5 @@
 
-# Infraestrutura como Código (IaC) com Terraform - Projeto VExpenses
+# Infraestrutura como Código (IaC) com Terraform 
 
 Este projeto provisiona uma infraestrutura básica na AWS utilizando **Terraform**, uma ferramenta de infraestrutura como código (IaC). A infraestrutura é composta por uma instância EC2 rodando Debian 12, com uma VPC personalizada, sub-rede, gateway de internet, e um grupo de segurança configurado para permitir conexões SSH.
 
